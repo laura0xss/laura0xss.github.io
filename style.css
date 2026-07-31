@@ -68,6 +68,8 @@ a {
 
 footer {
     background-color: #667f89;
+    width: 100%;
+    text-align: center;
 }
 
 footer p {
@@ -83,5 +85,6 @@ body {
     justify-content:center ;
     align-items: center;
     flex-direction: column;
+    background-color: #9ccec6;
 
 }
