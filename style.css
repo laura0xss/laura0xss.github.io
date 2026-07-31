@@ -32,7 +32,7 @@ a {
 }
 
 .link-social {
-    color: #2fb6a2e1;
+    color: #9ccec6;
     text-decoration: none;
 }
 
@@ -42,23 +42,23 @@ a {
    ======================================== */
 
 #hero {
-    background-color: #175978;
+    background-color: #9ccec6;
 }
 
 #sobre {
-    background-color: #b4e43c;
+    background-color: #9ccec6;
 }
 
 #habilidades {
-    background-color: #cf4141;
+    background-color: #9ccec6;
 }
 
 #projetos {
-    background-color: #41d4de;
+    background-color: #9ccec6;
 }
 
 #contato {
-    background-color: #133b48;
+    background-color: #9ccec6;
 }
 
 
@@ -75,6 +75,6 @@ footer p {
 }
 
 img {
-    border: 9px solid rgb(52, 100, 197);
+    border: 9px solid burlywood;
     border-radius: 50%;
 }
