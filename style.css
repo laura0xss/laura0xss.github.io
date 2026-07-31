@@ -73,3 +73,8 @@ footer {
 footer p {
     color: rgb(80, 178, 193);
 }
+
+img {
+    border: 9px solid rgb(52, 100, 197);
+    border-radius: 50%;
+}
