@@ -42,23 +42,23 @@ a {
    ======================================== */
 
 #hero {
-    background-color: #e8f4f8;
+    background-color: #76d49f;
 }
 
 #sobre {
-    background-color: #f5f5f5;
+    background-color: #b4e43c;
 }
 
 #habilidades {
-    background-color: #eeeeee;
+    background-color: #cf4141;
 }
 
 #projetos {
-    background-color: #f5f5f5;
+    background-color: #41d4de;
 }
 
 #contato {
-    background-color: #e8f4f8;
+    background-color: #133b48;
 }
 
 
@@ -71,5 +71,5 @@ footer {
 }
 
 footer p {
-    color: white;
+    color: rgb(80, 178, 193);
 }
