@@ -50,26 +50,34 @@ a {
     color:#6c584cff;
     text-align: center;
     background-color: #EBF2FA;
+    width: 55%;
 
 }
 
 #sobre {
     background-color: #EBF2FA;
+    width: 55%;
+    text-align: center;
 }
 
 #habilidades {
     background-color: #EBF2FA;
     color:#6c584cff;
+    width: 55%;
+    text-align: center;
 }
 
 #projetos {
-    background-color: #EBF2FA;
+    background-color: #ebf2fa7e;
     color:#6c584cff;
+    width: 55%;
+    text-align: center;
 }
 
 #contato {
     background-color: #ebf2fa5f;
     width: 55%;
+    text-align: center;
 }
 
 
