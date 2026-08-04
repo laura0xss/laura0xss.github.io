@@ -68,7 +68,7 @@ a {
 }
 
 #contato {
-    background-color: #EBF2FA;
+    background-color: #ebf2fa5f;
 }
 
 
@@ -87,8 +87,8 @@ footer p {
 }
 
 img {
-    border: 9px solid #798559;;
-    border-radius: 50%;
+    border: 9px solid #6a7746dc;;
+    border-radius: 35%;
 }
 body {
     display: flex;
@@ -97,10 +97,6 @@ body {
     flex-direction: column;
     background: #ADC178;
     --vanilla-cream:#ADC178;;
- /*--muted-olive: #adc178ff;
- /*--tea-green: #dde5b6ff;*/
- /*--faded-copper: #a98467ff;*/
- /*--ash-brown: #6c584cff;*/
  background: radial-gradient(circle, rgba(173, 193, 120, 1) 25%, rgba(235, 242, 250, 1) 70%);
  font-family: 'Atma', cursive;
 }
