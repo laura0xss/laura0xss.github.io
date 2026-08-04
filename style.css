@@ -116,24 +116,19 @@ body {
     grid-template-columns: repeat(3, 1fr);
     gap: 20px;
 }
-body{
-    font-family: Arial, sans-serif;
-    font-family: 'Poppins', sans-serif;
-}
-
 
 header {
     display: flex;
     justify-content: space-between;
     align-items: center;
     flex-direction: column;
-    flex-direction: row;
+    flex-direction: column;
 
 }
 
 nav {
     display: flex;
-    gap: 20px;
+    gap: 60px;
 }
 
 /*--muted-olive: #adc178ff;*/
