@@ -129,11 +129,10 @@ nav {
     gap: 15px;
 }
 
-a.link-social:hover {
-        color: #6c584cff;
-        transition: background-color red 0.3s;
-    }
-
+a:hover {
+    color: #6c584cff;
+    transition: background-color 0.3s;
+}
 
 /*--muted-olive: #adc178ff;*/
 /*--tea-green: #dde5b6ff;*/
