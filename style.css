@@ -51,7 +51,7 @@ a {
 
 #hero {
     color:#6c584cff;
-    text-align: left;
+    text-align: center;
     background-color: #ebf2fa7e;
     width: 80%;
     border-radius: 70%;
@@ -107,7 +107,7 @@ img {
 }
 body {
     display: flex;
-    justify-content:center ;
+    justify-content:right; ;
     align-items: center;
     flex-direction: column;
     background: #ADC178;
