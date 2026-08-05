@@ -6,12 +6,12 @@ h1 {
     color: #6c584cff;
     font-size: 40px;
     text-align: right;
+    gap: 30px;
 }
 
 h2 {
     color: #6c584cff;
     text-align: center;
-    gap: 20px;
 }
 
 p {
@@ -123,17 +123,6 @@ body {
     justify-content: space-between;
     flex-direction: row;
      align-items: center;
-     #header-cima {
-  /* Espaço interno (dentro do cabeçalho) */
-  padding: 20px; 
-
-  /* Espaço externo (fora do cabeçalho) */
-  margin-bottom: 30px; 
-}
-
-
-}
-
 nav {
     display: flex;
     gap: 30px;
