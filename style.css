@@ -129,6 +129,10 @@ nav {
     gap: 15px;
 }
 
+.titulo {
+    text-align: center;
+}
+
 
 /*--muted-olive: #adc178ff;*/
 /*--tea-green: #dde5b6ff;*/
