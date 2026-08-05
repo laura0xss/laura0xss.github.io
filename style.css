@@ -59,6 +59,11 @@ a {
     background-color: #ebf2fa7e;
     width: 70%;
     text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-direction: row;
 }
 
 #habilidades {
@@ -66,7 +71,6 @@ a {
     color:#6c584cff;
     width: 70%;
     text-align: center;
-    
 }
 
 #projetos {
@@ -135,7 +139,6 @@ a:hover {
     color: #ADC178;
     transition: 0.3s;
 }
-
 
 /*--muted-olive: #adc178ff;*/
 /*--tea-green: #dde5b6ff;*/
