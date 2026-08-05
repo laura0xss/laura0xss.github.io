@@ -122,7 +122,7 @@ body {
     justify-content: space-between;
     flex-direction: row;
      align-items: center;
-     header {
+     #header-cima {
   /* Espaço interno (dentro do cabeçalho) */
   padding: 20px; 
 
@@ -135,7 +135,7 @@ body {
 
 nav {
     display: flex;
-    gap: 60px;
+    gap: 30px;
 }
 
 
