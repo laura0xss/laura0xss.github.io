@@ -61,27 +61,27 @@ a {
 
 #sobre {
     background-color: #ebf2fa7e;
-    width: 80%;
+    width: 100%;
     text-align: center;
 }
 
 #habilidades {
     background-color: #ebf2fa7e;
     color:#6c584cff;
-    width: 100%;
+    width: 170%;
     text-align: center;
 }
 
 #projetos {
     background-color: #ebf2fa7e;
     color:#6c584cff;
-    width: 70%;
+    width: 100%;
     text-align: center;
 }
 
 #contato {
     background-color: #ebf2fa5f;
-    width: 70%;
+    width: 100%;
     text-align: center;
     border-color: #6c584cff;
 }
@@ -93,7 +93,7 @@ a {
 
 footer {
     background-color: #EBF2FA;
-    width: 70%;
+    width: 100%;
     text-align: center;
 }
 
