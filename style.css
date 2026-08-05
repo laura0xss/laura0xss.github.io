@@ -130,7 +130,7 @@ nav {
 }
 
 a:hover {
-    color: #6c584cff;
+    color: red;
     transition: 0.3s;
 }
 
