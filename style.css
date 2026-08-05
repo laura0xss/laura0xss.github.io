@@ -50,7 +50,7 @@ a {
     color:#6c584cff;
     text-align: center;
     background-color: #ebf2fa7e;
-    width: 100;
+    width: 100%;
 
 }
 
@@ -98,7 +98,7 @@ footer p {
 
 img {
     border: 9px solid #6a7746dc;;
-    border-radius: 35%;
+    border-radius: 50%;
 }
 body {
     display: flex;
