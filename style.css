@@ -56,12 +56,12 @@ a {
 
 #sobre {
     background-color: #ebf2fa7e;
-    width: 100%;
+    width: 70%;
     text-align: center;
 }
 
 #habilidades {
-    background-color: #ebf2fa7e;
+    background-color: red;
     color:#6c584cff;
     width: 70%;
     text-align: center;
